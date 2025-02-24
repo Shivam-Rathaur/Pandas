@@ -40,21 +40,18 @@ To work with Pandas, ensure it is installed on your system. You can install it u
 pip install pandas
 ```
 
-### Running the Notebooks
-Follow these steps to run the notebooks and explore the tutorials:
-1. Clone the repository to your local machine:
+## ▶️ How to Use This Repository
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/Shivam-Rathaur/Pandas.git
    ```
-2. Navigate to the repository directory:
-   ```bash
-   cd pandas-tutorial
-   ```
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Open the `.ipynb` files to access the tutorials and start learning.
+
+2. Download as a ZIP File:
+   - Go to the repository's main page: https://github.com/Shivam-Rathaur/Pandas
+   - Click the "Code" button at the top right.
+   - Select "Download ZIP" and extract it on your system.
+
 
 ## Contributing
 We welcome contributions! If you find an area for improvement or have additional topics to include, feel free to fork the repository and submit a pull request.
